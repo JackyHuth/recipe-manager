@@ -1,7 +1,8 @@
 <template>
-  <router-view />
+  <div id="q-app">
+    <router-view />
+  </div>
 </template>
 
-<script setup lang="ts">
-//
+<script lang="ts">
 </script>
